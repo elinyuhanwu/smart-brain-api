@@ -1,5 +1,5 @@
 const Clarifai = require('clarifai');
-const API_KEY = '0435c492cca34885bc92e26115822e24'
+const { API_KEY } = require('../constants');
 
 //You must add your own API key here from Clarifai.
 const app = new Clarifai.App({
