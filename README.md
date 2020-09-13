@@ -9,3 +9,5 @@ Final project for Udemy course
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
+
+** Self Reminder: make sure on your local not having `brew services start postgres`, this will cause the port different running postgres in docker.
